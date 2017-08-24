@@ -1,0 +1,19 @@
+{
+  "name": "rollon-virtual",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dextreeamper/rollon-virtual.git"
+  },
+  "author": "Dexter Amper",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dextreeamper/rollon-virtual/issues"
+  },
+  "homepage": "https://github.com/dextreeamper/rollon-virtual#readme"
+}
